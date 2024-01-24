@@ -1,4 +1,5 @@
 # Predicting prices for Airbnb rentals
+BY Rohitchandran Ravichandran        
 
 <p style="text-align: justify">Platforms to connect landlords and tentants for temporary housing have become a cheap and good alternative to traditional hotel bookings in the tourism industry.</p>
 <p style="text-align: justify">Airbnb's business model relies mainly on a fee charged from the total rental price, so it's in their best interest to optimize the prices in order to maximize their revenue. From the point of view of guests, it is benefitial to them to have fair prices that reflect the market and the value of properties. Likewise, hosts don't want to undercharge for the property nor overcharge, because it can reduce the demand.</p>
@@ -4750,7 +4751,7 @@ sns.pairplot(df_pp,size = 2 ,kind ='scatter',diag_kind='kde')
 plt.show()
 ```
 
-    C:\Users\felli\anaconda3\lib\site-packages\ipykernel_launcher.py:4: SettingWithCopyWarning: 
+    C:\Users\rohitchandran\anaconda3\lib\site-packages\ipykernel_launcher.py:4: SettingWithCopyWarning: 
     A value is trying to be set on a copy of a slice from a DataFrame.
     Try using .loc[row_indexer,col_indexer] = value instead
     
